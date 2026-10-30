@@ -1,4 +1,4 @@
 streamlit
-tensorflow-cpu==X.Y.Z
+tensorflow-cpu
 pillow
 numpy
